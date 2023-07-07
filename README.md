@@ -1,4 +1,4 @@
-Security Tech IC at Amazon Web Services (AWS).
+Security Consultant at Amazon Web Services (AWS).
 
 ☁️  Cloud Security\
 🛠 Security Engineering\
