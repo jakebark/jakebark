@@ -1,12 +1,12 @@
 Security Tech IC at Amazon Web Services (AWS).
 
-☁️  Cloud Security
-🛠 Security Engineering
-👾 AppSec
-🏗 DevOps, DevSecOps, SRE
-🧰 AWS, Python, JS, Terraform
-📍 London / Remote
-🍕 Pizza
+☁️  Cloud Security\
+🛠 Security Engineering\
+👾 AppSec\
+🏗 DevOps, DevSecOps, SRE\
+🧰 AWS, Python, JS, Terraform\
+📍 London / Remote\
+🍕 Pizza\
 
 ### Projects
 
