@@ -6,7 +6,7 @@ Security Tech IC at Amazon Web Services (AWS).
 🏗 DevOps, DevSecOps, SRE\
 🧰 AWS, Python, JS, Terraform\
 📍 London / Remote\
-🍕 Pizza\
+🍕 Pizza
 
 ### Projects
 
