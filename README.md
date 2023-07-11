@@ -1,13 +1,5 @@
 Security Consultant at Amazon Web Services (AWS).
 
-☁️  Cloud Security\
-🛠 Security Engineering\
-👾 AppSec\
-🏗 DevOps, DevSecOps, SRE\
-🧰 AWS, Python, JS, Terraform\
-📍 London / Remote\
-🍕 Pizza
-
 ### Projects
 
 - [aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
