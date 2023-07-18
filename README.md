@@ -1,4 +1,4 @@
-Security Consultant at Amazon Web Services (AWS).
+Security Consultant and pizza enthusiast at Amazon Web Services (AWS).
 
 ### Projects
 
