@@ -1,9 +1,10 @@
 Security Consultant and pizza enthusiast at Amazon Web Services (AWS).
 
-### Projects
+### aws-samples projects
 
 - [aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
 - [aws-codecommit-s3-backups-with-terraform](https://github.com/aws-samples/aws-codecommit-s3-backups-with-terraform)
+- [aws-terraform-pipeline](https://github.com/aws-samples/aws-terraform-pipeline/)
 
 
 <!--
