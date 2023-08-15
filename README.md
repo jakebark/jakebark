@@ -1,6 +1,6 @@
 Security Consultant and pizza enthusiast at Amazon Web Services (AWS).
 
-I work for AWS, but my opinions (and terrible architecture decisions) are my own. 
+I work for AWS, but my opinions (and terrible design decisions) are my own. 
 
 ### aws-samples projects
 
