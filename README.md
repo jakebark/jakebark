@@ -1,6 +1,6 @@
 Security Consultant and pizza enthusiast at Amazon Web Services (AWS).
 
-I work for AWS, but my opinions and personal projects are entirely my own. 
+I work for AWS, but my opinions are entirely my own. 
 
 ### aws-samples projects
 
@@ -12,8 +12,6 @@ I work for AWS, but my opinions and personal projects are entirely my own.
 ### AWS Blogs
 
 - [Delegating permission set management and account assignment in AWS IAM Identity Center](https://aws.amazon.com/blogs/security/delegating-permission-set-management-and-account-assignment-in-aws-iam-identity-center/)
-
-### Personal Projects
 
 <!--
 **jakebark/jakebark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
