@@ -1,5 +1,7 @@
 Security Consultant and pizza enthusiast at Amazon Web Services (AWS).
 
+My views and personal projects are my own, as our my poor design decisions. 
+
 ### aws-samples projects
 
 - [aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
