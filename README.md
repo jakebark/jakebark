@@ -1,4 +1,4 @@
-Security Consultant at Amazon Web Services (AWS).
+I work at Amazon Web Services (AWS).
 
 My views and personal projects are my own, as are my poor design decisions. 
 
