@@ -9,6 +9,7 @@ My views and personal projects are my own.
 - [aws-terraform-pipeline](https://github.com/aws-samples/aws-terraform-pipeline/)
 - [identity-center-with-terraform](https://github.com/aws-samples/identity-center-with-terraform)
 - [identity-center-users-and-groups-with-terraform](https://github.com/aws-samples/identity-center-users-and-groups-with-terraform)
+- [terraform-multi-account-pipeline](https://github.com/aws-samples/terraform-multi-account-pipeline)
 
 
 ### AWS blogs
