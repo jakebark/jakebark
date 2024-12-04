@@ -7,9 +7,10 @@ My views and personal projects are my own.
 - [aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
 - [aws-codecommit-s3-backups-with-terraform](https://github.com/aws-samples/aws-codecommit-s3-backups-with-terraform)
 - [aws-terraform-pipeline](https://github.com/aws-samples/aws-terraform-pipeline/)
+- [terraform-multi-account-pipeline](https://github.com/aws-samples/terraform-multi-account-pipeline)
 - [identity-center-with-terraform](https://github.com/aws-samples/identity-center-with-terraform)
 - [identity-center-users-and-groups-with-terraform](https://github.com/aws-samples/identity-center-users-and-groups-with-terraform)
-- [terraform-multi-account-pipeline](https://github.com/aws-samples/terraform-multi-account-pipeline)
+
 
 
 ### AWS blogs
