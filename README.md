@@ -2,7 +2,7 @@ I work at Amazon Web Services (AWS).
 
 My views and personal projects are my own.
 
-### aws-samples projects
+### aws-samples
 
 - [aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
 - [aws-codecommit-s3-backups-with-terraform](https://github.com/aws-samples/aws-codecommit-s3-backups-with-terraform)
