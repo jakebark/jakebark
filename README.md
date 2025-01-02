@@ -1,6 +1,4 @@
-I work at Amazon Web Services (AWS).
-
-My views and personal projects are my own.
+I work at Amazon Web Services (AWS). My views and personal projects are my own.
 
 ### aws-samples
 
