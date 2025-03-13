@@ -2,7 +2,7 @@ I work at Amazon Web Services (AWS). My views and personal projects are my own.
 
 ### aws-samples
 
-- [aws-scps-with-terraform](https://github.com/aws-samples/aws-scps-with-terraform)
+- [terraform-aws-organizational-policies](https://github.com/aws-samples/terraform-aws-organizational-policies)
 - [aws-codecommit-s3-backups-with-terraform](https://github.com/aws-samples/aws-codecommit-s3-backups-with-terraform)
 - [aws-terraform-pipeline](https://github.com/aws-samples/aws-terraform-pipeline/)
 - [terraform-multi-account-pipeline](https://github.com/aws-samples/terraform-multi-account-pipeline)
