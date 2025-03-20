@@ -2,10 +2,10 @@ I work at Amazon Web Services (AWS). My views and personal projects are my own.
 
 ### aws-samples
 
-- [terraform-aws-organization-policies](https://github.com/aws-samples/terraform-aws-organization-policies) (formerly aws-scps-with-terraform)
+- [terraform-aws-organization-policies](https://github.com/aws-samples/terraform-aws-organization-policies)
 - [aws-codecommit-s3-backups-with-terraform](https://github.com/aws-samples/aws-codecommit-s3-backups-with-terraform)
-- [aws-terraform-pipeline](https://github.com/aws-samples/aws-terraform-pipeline/)
-- [terraform-multi-account-pipeline](https://github.com/aws-samples/terraform-multi-account-pipeline)
+- [terraform-aws-pipeline](https://github.com/aws-samples/terraform-aws-pipeline/)
+- [terraform-aws-multi-account-pipeline](https://github.com/aws-samples/terraform-aws-multi-account-pipeline)
 - [identity-center-with-terraform](https://github.com/aws-samples/identity-center-with-terraform)
 - [identity-center-users-and-groups-with-terraform](https://github.com/aws-samples/identity-center-users-and-groups-with-terraform)
 
