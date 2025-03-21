@@ -6,8 +6,8 @@ I work at Amazon Web Services (AWS). My views and personal projects are my own.
 - [terraform-aws-codecommit-s3-backups](https://github.com/aws-samples/terraform-aws-codecommit-s3-backups)
 - [terraform-aws-pipeline](https://github.com/aws-samples/terraform-aws-pipeline/)
 - [terraform-aws-multi-account-pipeline](https://github.com/aws-samples/terraform-aws-multi-account-pipeline)
-- [identity-center-with-terraform](https://github.com/aws-samples/identity-center-with-terraform)
-- [identity-center-users-and-groups-with-terraform](https://github.com/aws-samples/identity-center-users-and-groups-with-terraform)
+- [terraform-aws-identity-center](https://github.com/aws-samples/terraform-aws-identity-center)
+- [terraform-aws-identity-center-users-and-groups](https://github.com/aws-samples/terraform-aws-identity-center-users-and-groups)
 
 
 
