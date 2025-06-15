@@ -8,6 +8,7 @@ I work at Amazon Web Services (AWS). My views and personal projects are my own.
 - [terraform-aws-multi-account-pipeline](https://github.com/aws-samples/terraform-aws-multi-account-pipeline)
 - [terraform-aws-identity-center](https://github.com/aws-samples/terraform-aws-identity-center)
 - [terraform-aws-identity-center-users-and-groups](https://github.com/aws-samples/terraform-aws-identity-center-users-and-groups)
+- [terraform-aws-organizational-units](https://github.com/aws-samples/sample-terraform-aws-organizational-units)
 
 
 ### AWS blogs
