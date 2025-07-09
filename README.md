@@ -10,7 +10,6 @@ I work at Amazon Web Services (AWS). My views and personal projects are my own.
 - [terraform-aws-identity-center-users-and-groups](https://github.com/aws-samples/terraform-aws-identity-center-users-and-groups)
 - [terraform-aws-organizational-units](https://github.com/aws-samples/sample-terraform-aws-organizational-units)
 
-
 ### AWS blogs
 
 - [Delegating permission set management and account assignment in AWS IAM Identity Center](https://aws.amazon.com/blogs/security/delegating-permission-set-management-and-account-assignment-in-aws-iam-identity-center/)
