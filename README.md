@@ -1,5 +1,10 @@
 I work at Amazon Web Services (AWS). My views and personal projects are my own.
 
+### personal projects
+
+- [tag-nag](https://github.com/jakebark/tag-nag)
+- [terraform-aws-state](https://github.com/jakebark/terraform-aws-state)
+
 ### aws-samples
 
 - [terraform-aws-organization-policies](https://github.com/aws-samples/terraform-aws-organization-policies)
