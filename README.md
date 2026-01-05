@@ -3,8 +3,8 @@ I work at Amazon Web Services (AWS). My views and personal projects are my own.
 ### personal projects
 
 - [tag-nag](https://github.com/jakebark/tag-nag)
-- [terraform-aws-state](https://github.com/jakebark/terraform-aws-state)
 - [terraform-aws-organizational-units](https://github.com/jakebark/terraform-aws-organizational-units)
+- [terraform-aws-state](https://github.com/jakebark/terraform-aws-state)
 
 ### aws-samples
 
